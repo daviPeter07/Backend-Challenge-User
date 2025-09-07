@@ -148,6 +148,13 @@ app.delete('/users/:id', (req, res) => {
 // (Sem corpo de resposta)
 ```
 
+## 🎉 Como Participar
+
+1.  **Fork** este repositório.
+2.  Crie uma nova **branch** para o seu desenvolvimento (ex: `feat/user-crud-davi`).
+3.  Faça seus commits e, ao finalizar, abra um **Pull Request** para a branch `main` do repositório original.
+4.  Coloque um resumo do que você fez na descrição do PR.
+
 ## Não se prenda
 
 Não se sinta preso somente ao básico, pesquise o que o mercado geralmente usa pra essas aplicações
